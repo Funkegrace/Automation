@@ -3,7 +3,7 @@
 describe('My Second Test Suite', function() 
 {
  
-it('My FirstTest case',function() {
+it('My SecondTest case',function() {
  
  
 cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/")
